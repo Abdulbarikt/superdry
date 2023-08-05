@@ -1,0 +1,447 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: supergroup_std, Arial, sans-serif
+    ;
+}
+.nav{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: fixed;
+    margin-top: -31px;
+    z-index: 1;
+}
+.s2{
+    padding-left: 78px;
+    width: 1.5%;
+    padding-top: 39px;
+    cursor: pointer;
+}
+.s3{
+    padding-left: 30px;
+    width: 1.5%;
+    padding-top: 39px;
+    cursor: pointer;
+}
+.s4{
+    margin-left: 594px;
+    margin-top: -32px;
+    
+}
+.s5{
+    margin-top: -40px;
+}
+.s6{
+    text-align: end;
+    padding-right: 62px;
+}
+.s7{
+    padding-left: 53px;
+    cursor: pointer;
+}
+.s8{
+    width: 100%;
+    height: 180px;
+    background-color: rgb(56,56,56); 
+    margin-top: 30px;
+    padding-top: 12px;
+}
+.s9{
+    text-align: center;
+    font-family: supergroup_heavy, Arial, "Lucida Grande", sans-serif;
+    padding-top: 26px;
+    font-size: 44px;
+    font-weight: 1000;
+    letter-spacing: -3px;
+    color: white;
+}
+.s10{
+    font-family: supergroup_std, Arial, sans-serif;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 4px 79px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: -15px 604px;
+    cursor: pointer;
+    padding-top: 6px;
+    transition-duration: 0.4s;
+}
+.s10:hover{
+     background-color: #fcf8f8;
+     color: rgb(13, 11, 11);
+}
+.s11{
+    margin-top: 32px;
+    overflow: hidden;
+}
+.s12{
+    width: 1921px;
+    height: 961px;
+}
+
+.s13{
+   margin-top: -230px;
+    margin-left: 124px;
+}
+.s14{
+    font-family: supergroup_std, Arial, sans-serif;
+    background-color: white;
+    border: none;
+    color: rgb(10, 9, 9);
+    padding: 0px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    padding-top: 15px;
+    transition-duration: 0.4s;
+    PADDING-BOTTOM: 19px;
+    font-weight: 700;
+    margin-left: 912px;
+    padding-right: 53px;
+}
+.s16{
+    margin-top: -42px;
+}
+.s15{
+    font-family: supergroup_std, Arial, sans-serif;
+    background-color: white;
+    border: none;
+    color: rgb(10, 9, 9);
+    padding: 0px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: -27px 606px;
+    cursor: pointer;
+    padding-top: 15px;
+    transition-duration: 0.4s;
+    PADDING-BOTTOM: 19px;
+    font-weight: 700;
+}
+.button1{
+    text-align: center;
+}
+.S17{
+    background-color: rgb(17, 11, 11);
+    border: none;
+    padding: 11px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    cursor: pointer;
+    font-weight: 700;
+    color: #fcf8f8;
+}
+.S17:hover{
+    background-color: rgb(162, 166, 170);
+    transition: 0.15s;
+}
+.button2{
+    text-align: center;
+    
+}
+.S18{
+    background-color: rgb(23, 16, 16);
+    border: none;
+    padding: 11px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    cursor: pointer;
+    font-weight: 700;
+    color: #fcf8f8;
+}
+.S18:hover{
+    background-color: rgb(162, 166, 170);
+    transition: 0.15s;
+}
+.buttonmain{
+    margin-top: 23px;
+}
+.h1{
+    text-align: center;
+    font-weight: 600;
+}
+.h2 button{
+   padding-left: 12px; 
+}
+.h3{
+    margin-top: 12px;
+    display: flex;
+    justify-content: center;
+}
+
+.S19{
+    height: 38px;
+    width: 239px;
+    background-color: orange;
+    text-align: center;
+    align-items: center;
+    padding-top: 8px;
+    margin-top: 8px;
+    color: white;
+    font-family: supergroup_std, Arial, sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+}
+.s20{
+    height: 38px;
+    width: 239px;
+    background-color: orange;
+    text-align: center;
+    align-items: center;
+    padding-top: 8px;
+    margin-top: 8px;
+    color: white;
+    font-family: supergroup_std, Arial, sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+}
+.main2{
+    width: 100%;
+    height:960px ;
+    margin-top: 30px;
+}
+.s23{
+    margin-left: 555px;
+    margin-top: -265px;
+}
+.s24{
+    background-color: black;
+    height: 842px;
+    width: 905px;
+    color: #fcf8f8;
+    text-align: center;
+    margin-top: -32px;
+}
+.s25{
+    font-size: 73px;
+    padding-top: 368px;
+    font-weight: 800;
+}
+.s26{
+    font-family: supergroup_std, Arial, sans-serif;
+    background-color: white;
+    color: rgb(10, 9, 9);
+    padding: 0px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+    padding-top: 15px;
+    transition-duration: 0.4s;
+    PADDING-BOTTOM: 13px;
+    font-weight: 700;
+    padding-right: 31px;
+    margin-left: 31px;
+}
+.s27{
+    font-family: supergroup_std, Arial, sans-serif;
+    background-color: white;
+    color: rgb(10, 9, 9);
+    padding: 0px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    cursor: pointer;
+    padding-top: 15px;
+    transition-duration: 0.4s;
+    PADDING-BOTTOM: 13px;
+    font-weight: 700;
+    padding-right: 19px;
+    margin-left: 8px;
+}
+.pic2{
+    margin-top: -32px;
+}
+.imagesection{
+    display: flex;
+}
+.yellow{
+    display: flex;
+}
+.s28{
+   padding-left: 19px;
+}
+.s29{
+    display: flex;
+    
+}
+.s30{
+    font-family: supergroup_std, Arial, sans-serif;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    left: 569px;
+    margin-left: 30px;
+    padding-top: 14px;
+    font-weight: 600;
+    padding-left: 50px;
+    cursor: pointer;
+    top: 70%;
+   
+
+} 
+.s31{
+    font-family: supergroup_std, Arial, sans-serif;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    left: 590px;
+    margin-left: 224px;
+    padding-top: 14px;
+    font-weight: 600;
+    padding-left: 50px;
+    cursor: pointer;
+    top: 70%;
+}
+.main3{
+    position: relative;
+}
+.h4 ul {
+    display: grid;
+    list-style: none;
+    grid-template-columns:repeat(3,32rem);
+   justify-content: right;
+   overflow: hidden;
+}
+.h4 img{
+    width: 470px;
+    height: 472px;
+    cursor: pointer;
+}
+.s32{
+    padding-left: 35px;
+    color: rgb(68,68,68);
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.s33{
+    padding-left: 35px;
+    color: rgb(68,68,68);
+    font-family: supergroup_std, Arial, "Lucida Grande", sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    cursor: pointer;
+
+}
+.s34{
+    color: rgb(68,68,68);
+    padding-top: 19px;
+    padding-left: 38px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.video iframe{
+    width: 80%;
+    height: 600px;
+  
+}
+.video{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    background-color: black;
+    margin-left: 60px;
+}
+.back2{
+    background-color: rgb(243, 242, 240);
+    width: 100%;
+    height: 270px;
+    margin-top: 20px;
+}
+.s35{
+    text-align: center;
+    padding-top: 67px;
+    font-weight: 800;
+    color: rgb(68,68,68);
+    font-size: 42px;
+}
+.s36{
+    text-align: center;
+}
+.s37{
+    display: flex;
+    align-items: center;
+    border: none;
+    background-color: rgb(243, 242, 240);
+    border-bottom: 1px solid black;
+    width: 400px;
+    font-size: 15px;
+    padding-bottom: 15px;
+    margin-left: 465px;
+}
+.sub{
+    background-color: black;
+    color: white;
+    width: 122px;
+    height: 28px;
+    text-align: center;
+    margin-left: 891px;
+    margin-top: -33px;
+    padding-top: 8px;
+    font-size: 12px;
+}
+.footmain{
+    display: flex;
+    width: 100%;
+    height: 225px;
+    background-color: black;
+    color: white;
+}
+.footmain ul{
+    list-style: none;
+    line-height: 29px;
+    font-size: 12px;
+    padding-left: 77px;
+}
+.icon{
+    margin-top: 100px;
+    margin-left: 574px;
+}
+.icon1{
+    padding-left: 12px;
+}
+.last{
+    width: 100%;
+    height: 47px;
+    background-color: rgb(36,36,36);
+    color: white;
+    padding-top: 2px;
+}
+.last p{
+    float: right;
+    font-size: 13px;
+}
+.footmain ul li:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+
+
+
+  
